@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmettKaya/todolist.git"
+  },
+  "author": "Ahmet Kaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmettKaya/todolist/issues"
+  },
+  "homepage": "https://github.com/ahmettKaya/todolist#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
